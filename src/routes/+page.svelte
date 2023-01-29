@@ -1,6 +1,6 @@
 <script>
-	const VICTOR = new URL('./assets/image-victor.jpg', import.meta.url).href;
-  const BGCARD = new URL('./assets/bg-pattern-card.svg', import.meta.url).href;
+	const VICTOR = new URL('/src/routes/assets/image-victor.jpg', import.meta.url).href;
+  const BGCARD = new URL('/src/routes/assets/bg-pattern-card.svg', import.meta.url).href;
 
 </script>
 
